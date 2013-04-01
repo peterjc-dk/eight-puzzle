@@ -1,6 +1,3 @@
-eight-puzzle
-============
-
 # eight-puzzle
 
 A Clojure library designed to Solving and playing the 8-puzzle  
